@@ -1,0 +1,6 @@
+C:\Users\Andrianaina\Documents\Travaux & projets\Dot.NET\Architecture N-tier\Model\bin\Debug\Model.dll
+C:\Users\Andrianaina\Documents\Travaux & projets\Dot.NET\Architecture N-tier\Model\bin\Debug\Model.pdb
+C:\Users\Andrianaina\Documents\Travaux & projets\Dot.NET\Architecture N-tier\Model\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Andrianaina\Documents\Travaux & projets\Dot.NET\Architecture N-tier\Model\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Andrianaina\Documents\Travaux & projets\Dot.NET\Architecture N-tier\Model\obj\Debug\Model.dll
+C:\Users\Andrianaina\Documents\Travaux & projets\Dot.NET\Architecture N-tier\Model\obj\Debug\Model.pdb
